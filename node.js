@@ -1,7 +1,7 @@
 function bulbOn() {
-    document.getElementById("bulb-el").src="images/pic_bulbon.gif"
+    document.getElementById("bulb-el").src="pic_bulbon.gif"
 }
 
 function bulbOff() {
-    document.getElementById("bulb-el").src="images/pic_bulboff.gif"
+    document.getElementById("bulb-el").src="pic_bulboff.gif"
 }
